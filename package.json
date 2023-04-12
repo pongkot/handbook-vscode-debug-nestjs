@@ -1,8 +1,8 @@
 {
   "name": "handbook-vscode-debug-nestjs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "an example code for visual studio code settings to execute the current file with Jest.",
+  "author": "pongkot sae-li",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
